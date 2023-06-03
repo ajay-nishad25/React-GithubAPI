@@ -1,0 +1,16 @@
+.repo-card-div{
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    height: auto;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    text-align: left;
+    cursor: default;
+}
+
+li{
+    /* font-size: 14px; */
+    padding-left: 5px;
+    font-size: 13px;
+}
