@@ -13,4 +13,4 @@ Receiving an Axios error with a status code of 403 indicates that you are facing
 
 Because the GitHub API has rate limits in place to prevent abuse and ensure fair usage. If you make too many requests in a short period of time, you may exceed the rate limit and receive a 403 error.
 
-"I haven't used a GitHub API access token 🙂, so please try again later if you encounter a 403 error."
+"I haven't used a GitHub API access token 🙂, so please try again later if you encounter a <span style="background-color: red">403 error.</span>"
